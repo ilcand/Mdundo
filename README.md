@@ -36,4 +36,4 @@ Additionally, the project includes:
 - edit the connection settings in example.php if needed
 
 3. Run the example
-- open a page in your browser at: http://localhost:8000/example.php
+- open a page in your browser at: http://localhost/mdundoholidayassignment/example.php
